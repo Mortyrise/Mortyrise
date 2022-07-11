@@ -1,4 +1,4 @@
-Hi 👋 My name is JoanMarc
+Hi!  My name is JoanMarc 👋
 =========================
 
 Full Stack development engineer
@@ -7,7 +7,7 @@ Full Stack development engineer
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [joanmarcdomenech@gmail.com](mailto:joanmarcdomenech@gmail.com)
 * 🚀  I'm currently working on [Torna](http://torna.vercel.app)
-* 🧠  I'm learning Vue.js
+* 🧠  I'm learning Next.js
 * ⚡  I really love 📸shooting at stars🌠
 
 ## Skills
