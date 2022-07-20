@@ -40,6 +40,9 @@ Full Stack development engineer
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mortyrise" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mortyrise" height="150" alt="languages graph"  />
+</div>
 
-<a href="http://www.github.com/Mortyrise"><img src="https://github-readme-stats.vercel.app/api?username=Mortyrise&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="Mortyrise's GitHub stats" /></a>
+###
