@@ -47,7 +47,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40" width="52" alt="jira logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  />
-  <img src="https://static-00.iconduck.com/assets.00/parsec-icon-512x512-4kbj8llm.png" height="40" width="52" alt="parsec logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/parsec-icon-512x512-4kbj8llm.png" height="40" width="40" alt="parsec logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original.svg" height="40" width="52" alt="krakenjs logo"  />
 </div>
 
