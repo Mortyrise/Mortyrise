@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">🌍️ I'm based in Barcelona<br> ✉️ You can contact me at joanmarcdomenech@gmail.com<br>🚀 I'm currently working at Vibia<br>🧠 I'm learning Next.js<br>📸 I really love shooting at stars 🌠</p>
+<p align="center">🌍️ I'm based in Barcelona<br> ✉️ You can contact me at joanmarcdomenech@gmail.com<br>🚀 I'm currently working at Vibia<br>📸 I really love shooting at stars 🌠</p>
 
 ###
 
