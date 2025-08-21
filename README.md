@@ -5,9 +5,6 @@
 
 
 
-
----
-
 ## 🧑‍💻 About Me
 <p align="center">
   Building scalable systems with <b>TypeScript, React / React Native, Node.js and Next.js</b>  <br/>
