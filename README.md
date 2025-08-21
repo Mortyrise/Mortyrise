@@ -51,28 +51,6 @@ DDD · XP · Agile · Docker · CI/CD
 
 ---
 
-## 🌟 Featured Projects
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Mortyrise/Green-Grafiti-Wall">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mortyrise&repo=Green-Grafiti-Wall&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Mortyrise/Im-a-pickle">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mortyrise&repo=Im-a-pickle&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Torna-Team/Torna">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Torna-Team&repo=torna&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 ## 💡 Philosophy
 <p align="center">
